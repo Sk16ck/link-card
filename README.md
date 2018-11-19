@@ -18,15 +18,15 @@ deliverables: "1 HTML file, 1 CSS file"
 
 ## Details
 
-- *Typefaces*: `Georgia`, `Dosis`
+<!-- - *Typefaces*: `Georgia`, `Dosis` -->
 - *Text sizes*: `1.5rem`, `1.125rem`, `1rem`, `.875rem`
-- *Line heights*: `1.5`
+<!-- - *Line heights*: `1.5` -->
 - *Paddings*: `1rem`, `.4em .75em .5em`
 - *Margins*: `0 0 1rem`
 - *Colours*: `#785439`, `#cabdb2`, `#512200`, `#9a816d`, `#dcd4cd`, `#f0eee8`
 - *Border widths*: `3px`, `2px`
 - *Border radii*: `3px`, `8px`
-- *Expected classes*: `.link-card`
+<!-- - *Expected classes*: `.link-card` -->
 
 ---
 
