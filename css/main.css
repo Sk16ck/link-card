@@ -8,10 +8,40 @@ html {
 }
 
 .link-card {
-    border: 2px solid #785439;
-    text-decoration: none;
+  border: 2px solid #9a816d;
+  background-color: #cabdb2;
+  color: #785439;
+  text-decoration: none;
+  display: block;
+  margin: 0 0 1rem;
 }
 
-h1 {
-  font-family: 'Dosis', sans-serif;
+.link-card:hover {
+
+}
+
+.link-card h2 {
+  font-family: "Dosis", sans-serif;
+  font-weight: bold;
+}
+
+a dl {
+  font-size: .875rem;
+}
+
+a dl > dt {
+  display: inline-block;
+  width: 45%;
+}
+
+a dl > dd {
+  display: inline-block;
+  font-style: italic;
+  width: 45%;
+  margin: 0;
+}
+
+a .btn {
+  font-size: 1.125rem;
+  padding: .4em .75em .5em;
 }
